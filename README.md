@@ -20,9 +20,12 @@ do
 {
 
 if (compara != millis())
+
 {
+
 contador++;
 compara = millis();
+
 }
 
 } while (contador <= milisegundos);
