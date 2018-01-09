@@ -1,4 +1,4 @@
-# Funcion-para-sustituir-al-delay-
+# Funcion para sustituir al delay() de Arduino
 Esta funcion hace una parada en milisegudos sin usar delay. El micro sigue activo.
 Esta funcion tal cual esta construida no tiene problemas de desbordamientos ni de cuando se asignan y evaluan los
 valores de la funcion Millis()
