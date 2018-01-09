@@ -24,6 +24,7 @@ if (compara != millis())
 {
 
 contador++;
+
 compara = millis();
 
 }
